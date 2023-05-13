@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo例子</title>
-    <link>https://zhanghuangbin.github.io/</link>
-    <description>Recent content on hugo例子</description>
+    <title>Posts on hugo例子</title>
+    <link>https://zhanghuangbin.github.io/posts/</link>
+    <description>Recent content in Posts on hugo例子</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_cn</language>
-    <lastBuildDate>Sat, 13 May 2023 15:34:04 +0800</lastBuildDate><atom:link href="https://zhanghuangbin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 May 2023 15:34:04 +0800</lastBuildDate><atom:link href="https://zhanghuangbin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一个页面</title>
       <link>https://zhanghuangbin.github.io/posts/my-first-post/</link>
